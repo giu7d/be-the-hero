@@ -9,6 +9,7 @@
           "@": ".",
           "~": "./src",
           "database": "./src/database",
+          "validators": "./src/validators",
           "controllers": "./src/controllers"
         }
       }
